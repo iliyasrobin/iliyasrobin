@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **What do you want to know about me?**
 
-- 📫 How to reach me **iliyasahmedr@gmail,com**
+- 📫 How to reach me **iliyasahmedr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
