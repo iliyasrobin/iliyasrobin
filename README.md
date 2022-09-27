@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying at **Independent University, Bangladesh**
 
-- 🌱 I’m currently learning **Python, C++, HTML, CSS, Bootstrap, React and so on.**
+- 🌱 I’m currently learning **Python, C++, Java, HTML, CSS, Bootstrap, React and so on.**
 
 - 👯 I’m looking to collaborate on **Web Projects.**
 
-- 🤝 I’m looking for help with **Python Programs**
+- 🤝 I’m looking for help with **Java Programs**
 
 - 👨‍💻 All of my projects are available at [github.com/iliyasrobin]
 
