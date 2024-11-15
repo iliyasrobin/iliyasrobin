@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently studying at **Independent University, Bangladesh**
 
-- 🌱 I’m currently learning **Python, C++, Java and so on.**
+- 🌱 I’m currently learning **Flutter, Java and so on.**
 
-- 👯 I’m looking to collaborate on **Web Projects.**
+- 👯 I’m looking to collaborate on **Flutter Projects.**
 
-- 🤝 I’m looking for help with **Java Programs.**
+- 🤝 I’m looking for help with **Flutter Based Programs.**
 
 - 👨‍💻 All of my projects are available at [github.com/iliyasrobin]
 
