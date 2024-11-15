@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iliyas Ahmed Robin</h1>
 <h3 align="center">Hungry for Learning...</h3>
-<img align="right" alt="Coding" width="300" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyasrobin&label=Profile%20views&color=0e75b6&style=flat" alt="iliyasrobin" /> </p>
 
 
