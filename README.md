@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/iliyasrobin]
 
-- 💬 Ask me about **What do you want to know about me?**
+- 💬 Ask me about *anything!**
 
 - 📫 How to reach me **iliyasahmedr@gmail.com**
 
