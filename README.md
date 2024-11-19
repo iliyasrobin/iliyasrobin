@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at **Independent University, Bangladesh**
 
-- 🌱 I’m currently learning **Flutter, Java and so on.**
+- 🌱 I’m currently learning **Flutter, DART, Java and so on.**
 
 - 👯 I’m looking to collaborate on **Flutter Projects.**
 
